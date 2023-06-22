@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Airport-Azis2\Airport-Azis2\bin\Debug\Airport-Azis2.exe.config
+C:\Users\Admin\source\repos\Airport-Azis2\Airport-Azis2\bin\Debug\Airport-Azis2.exe
+C:\Users\Admin\source\repos\Airport-Azis2\Airport-Azis2\bin\Debug\Airport-Azis2.pdb
+C:\Users\Admin\source\repos\Airport-Azis2\Airport-Azis2\obj\Debug\Airport-Azis2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Airport-Azis2\Airport-Azis2\obj\Debug\Airport-Azis2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Airport-Azis2\Airport-Azis2\obj\Debug\Airport-Azis2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Airport-Azis2\Airport-Azis2\obj\Debug\Airport-Azis2.exe
+C:\Users\Admin\source\repos\Airport-Azis2\Airport-Azis2\obj\Debug\Airport-Azis2.pdb
